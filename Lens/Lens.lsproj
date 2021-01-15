@@ -3,7 +3,7 @@
     "document_id": "br-swyioSN9QTdb-abzr",
     "original_document_id": "br-swyioSN9QTdb-abzr",
     "version": "26",
-    "lastChanged": "1610646418722",
+    "lastChanged": "1610706838330",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -1787,7 +1787,7 @@
                 "hashes": [
                     {
                         "k": "2",
-                        "v": "d151b99ca6f0fdbba36b2acaf2dd0a5f"
+                        "v": "b7a401c4aa858c2e95852b22bf77505e"
                     },
                     {
                         "k": "3",
@@ -1803,7 +1803,7 @@
                     },
                     {
                         "k": "7",
-                        "v": "e99fae7022b7c45a5a2a02f19576374d"
+                        "v": "152c425ef2c553513f6b3810c17cbedd"
                     },
                     {
                         "k": "8",
@@ -1963,15 +1963,15 @@
                     },
                     {
                         "k": "812",
-                        "v": "b2459e68cb61f429b8d6f6855b37a23f"
+                        "v": "7ceeeb58ca8666e8ec4bd9581aa4f3ff"
                     },
                     {
                         "k": "813",
-                        "v": "aca141a5484f6b59e0ecc90e7cdeab17"
+                        "v": "9c33570280806ca2bac147853bb98626"
                     },
                     {
                         "k": "814",
-                        "v": "fb128c156a6188c6c085355af8e958a3"
+                        "v": "77e2b08936840e18c4807781777f4726"
                     },
                     {
                         "k": "815",
@@ -2053,9 +2053,9 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-01-14T17:16:02",
+                        "lastModified": "2021-01-15T09:37:11",
                         "name": "Public",
-                        "hash": "f81acd1f4685d3e2eb0f4b0c6b62cd0a",
+                        "hash": "76580429b188e0ec702c1118bda177b7",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -2139,9 +2139,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-01-14T17:16:02",
+                                "lastModified": "2021-01-14T17:46:57",
                                 "name": "Materials",
-                                "hash": "fe0419b70668e078a98145d0f1ab67ca",
+                                "hash": "ca7463233acf647adb9667029d8d9224",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -2166,9 +2166,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-01-14T17:16:01",
+                                        "lastModified": "2021-01-14T17:46:57",
                                         "name": "bar_gradient.lsmat",
-                                        "hash": "33bd76cf8a37797a1e24d50c154e616f",
+                                        "hash": "e99fae7022b7c45a5a2a02f19576374d",
                                         "children": ""
                                     },
                                     {
@@ -2184,7 +2184,7 @@
                                 "isFolder": "true",
                                 "lastModified": "2021-01-14T17:16:02",
                                 "name": "Character",
-                                "hash": "f41bf9c4b8f47c1ec4d4638f73cab2e8",
+                                "hash": "29767eb6d35ad7d37b83bb46c7db0b23",
                                 "children": [
                                     {
                                         "isFolder": "true",
@@ -2217,9 +2217,9 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2021-01-14T17:16:02",
+                                        "lastModified": "2021-01-14T17:46:57",
                                         "name": "Materials",
-                                        "hash": "436f7c80bee021f6d9ae2e09a4bf070b",
+                                        "hash": "cf71acf0d3a6db60e8e96b83097d3f2c",
                                         "children": [
                                             {
                                                 "isFolder": "false",
@@ -2230,23 +2230,23 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-01-14T17:16:02",
+                                                "lastModified": "2021-01-14T17:46:57",
                                                 "name": "eyes.lsmat",
-                                                "hash": "bf7ef62dc37d7b1dac65f633e5d0ccd9",
+                                                "hash": "fb128c156a6188c6c085355af8e958a3",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-01-14T17:16:02",
+                                                "lastModified": "2021-01-14T17:46:57",
                                                 "name": "main.lsmat",
-                                                "hash": "3808493ae4a23302d43ca372a4b28e28",
+                                                "hash": "b2459e68cb61f429b8d6f6855b37a23f",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2021-01-14T17:16:02",
+                                                "lastModified": "2021-01-14T17:46:57",
                                                 "name": "eyes_shine.lsmat",
-                                                "hash": "1fd2d516ce4c47346f64f70292ef56c8",
+                                                "hash": "aca141a5484f6b59e0ecc90e7cdeab17",
                                                 "children": ""
                                             },
                                             {
@@ -2327,15 +2327,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-01-14T17:16:02",
+                                "lastModified": "2021-01-15T10:19:21",
                                 "name": "Scripts",
-                                "hash": "307c9e4ea1209abb703ca4af77929129",
+                                "hash": "c3b21a1b15c4f771ed45748e5523a7f2",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2021-01-14T17:03:04",
+                                        "lastModified": "2021-01-15T10:19:21",
                                         "name": "ExpressionsController.js",
-                                        "hash": "d151b99ca6f0fdbba36b2acaf2dd0a5f",
+                                        "hash": "b7a401c4aa858c2e95852b22bf77505e",
                                         "children": ""
                                     },
                                     {
@@ -3645,11 +3645,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1610644235718666:200453"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
